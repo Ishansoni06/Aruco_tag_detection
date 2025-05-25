@@ -24,3 +24,4 @@ after that run the aruco detection launch file , run the node . We would see two
 
 ![image](https://github.com/user-attachments/assets/e3860558-8f3a-43b1-a1f7-67e9c44f9ed2)
 
+[Screencast from 05-25-2025 09:46:46 PM.webm](https://github.com/user-attachments/assets/382de92a-0c68-4f8e-a591-c80b84af1ebc)
